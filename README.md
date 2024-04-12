@@ -1,6 +1,6 @@
-# React Todo App 📝
+#  TodoList App 📝
 
-# 🔗 https://reactify-todo-app.netlify.app/ 
+# 🔗 https://todo-list-ten-jade.vercel.app/
 
 The "React Todo List with Local Storage" project is a web-based task management application developed using React, designed to empower users to organize their tasks effectively while utilizing local storage for data persistence. This open-source project is hosted on Netlify.
 
@@ -60,16 +60,9 @@ By creating the "React Todo App with Local Storage" project using React and inte
 
 # Screenshots📸:
 
-![Group 2](https://github.com/iamvijay98/React-TodoApp/assets/133564952/75a908d5-e44c-40b5-9bea-29c305e8b30f)
+![5](https://github.com/omkar7075/TodoList/assets/91741647/0941a07b-5f57-4f3a-b26f-6c730d0837ea)
+![6](https://github.com/omkar7075/TodoList/assets/91741647/89390dd4-565a-4f79-9782-4754c3d3c60f)
+![7](https://github.com/omkar7075/TodoList/assets/91741647/b3463dca-b243-41c4-9b53-e6e81296f861)
 
-![Group 6](https://github.com/iamvijay98/React-TodoApp/assets/133564952/efc14399-2800-4abe-8428-01205d06f56b)
-
-![Group 5](https://github.com/iamvijay98/React-TodoApp/assets/133564952/26de7681-cdf4-4274-aad4-82d4ec160556)
-
-![Group 3](https://github.com/iamvijay98/React-TodoApp/assets/133564952/d70bcf10-c0bb-4535-9c7a-ac92cd507f90)
-
-![Group 4](https://github.com/iamvijay98/React-TodoApp/assets/133564952/ead2a137-f5e6-4645-9022-754ad59c796a)
-
-![localhost_3000_ (2)](https://github.com/iamvijay98/React-TodoApp/assets/133564952/34f73c9c-6bb2-48a9-ad93-ef9e6bc25df3)
 
 
